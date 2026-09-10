@@ -1,0 +1,21 @@
+# ログ
+
+# rule:
+#  - 社会が右辺に所属.左辺が所属する社会
+#  - 右辺を包含する社会/個人が左辺に所属
+
+- episode: template
+  case: 
+  title: 
+  elapsed days: 
+  location: 
+  time: 
+  contact: 
+  first contact: 
+  first appearance: 
+  companion: 
+  monster: 
+  battle: 
+  eros: 
+  summary: 
+

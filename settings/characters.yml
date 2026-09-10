@@ -1,0 +1,282 @@
+# キャラクター
+
+summary:
+  ^
+
+details:
+
+#                              o8o              
+#                              `"'              
+# ooo. .oo.  .oo.    .oooo.   oooo  ooo. .oo.   
+# `888P"Y88bP"Y88b  `P  )88b  `888  `888P"Y88b  
+#  888   888   888   .oP"888   888   888   888  
+#  888   888   888  d8(  888   888   888   888  
+# o888o o888o o888o `Y888""8o o888o o888o o888o 
+
+  - group: メインキャラクター
+    member:
+
+      - dn: 
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: 
+          gender: 
+          age: 
+          birthplace: 
+        current status:
+          address: 
+          affiliation: 
+        approximate nature:
+          overview:
+            ^
+            ^
+            ^
+          special skills:
+            ^
+            ^
+          forte:
+            ^
+          weaknesses:
+            ^
+          secret:
+            ^
+          hobby:
+            ^
+          etc:
+            ^
+        personality:
+          overview:
+            ^
+            ^
+            ^
+            ^
+            ^
+
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+      - dn: 
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: 
+          gender: 
+          age: 
+          birthplace: 
+        current status:
+          address: 
+          affiliation: 
+        approximate nature:
+          overview:
+            ^
+            ^
+            ^
+          special skills:
+            ^
+            ^
+            ^
+          forte:
+            ^
+            ^
+            ^
+            ^
+          weaknesses:
+            ^
+            ^
+            ^
+            ^
+            ^
+          secret:
+            ^
+          hobby:
+            ^
+          etc:
+            ^
+            ^
+        personality:
+          overview:
+            ^
+            ^
+            ^
+            ^
+
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+      - dn: 
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: 
+          gender: 
+          age: 
+          birthplace: 
+        current status:
+          address: 
+          affiliation: 
+        approximate nature:
+          overview:
+            ^
+            ^
+            ^
+          special skills:
+            ^
+            ^
+          forte:
+            ^
+            ^
+            ^
+            ^
+          weaknesses:
+            ^
+            ^
+            ^
+            ^
+          secret:
+            ^
+          hobby:
+            ^
+          etc:
+            ^
+        personality:
+          overview:
+            ^
+            ^
+            ^
+            ^
+
+
+        appearance:
+          overview: 
+          eye-catching features: 
+          first impression: 
+          face:
+            overview: 
+            hair: 
+            eyes: 
+          body:
+            overview: 
+            height: 
+            arm: 
+            breast/chest: 
+            waist: 
+            hips: 
+            buttocks: 
+            leg: 
+          voice: 
+
+#               .             
+#             .o8             
+#  .ooooo.  .o888oo  .ooooo.  
+# d88' `88b   888   d88' `"Y8 
+# 888ooo888   888   888       
+# 888    .o   888 . 888   .o8 
+# `Y8bod8P'   "888" `Y8bod8P' 
+
+  - group: etc
+    member:
+
+      - dn: 
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: 
+          gender:
+          age: 
+          birthplace: 
+        current status:
+          address: 
+          affiliation: 
+        approximate nature:
+
+  - group: 
+    member:
+
+      - dn: 
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: 
+          gender:
+          age: 
+          birthplace: 
+        current status:
+          address: 
+          affiliation: 
+        approximate nature:
+
+  - group: 
+    member:
+
+      - dn: 
+        meta data:
+          role: 
+          applicable chapter: 
+        innate nature:
+          self awareness: 
+          full name: 
+          nickname: 
+          race: 
+          gender:
+          age: 
+          birthplace: 
+        current status:
+          address: 
+          affiliation: 
+        approximate nature:
+
