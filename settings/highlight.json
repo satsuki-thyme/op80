@@ -88,44 +88,6 @@
                     "color": "#c7c2b7"
                 }
             ]
-        },
-        "^(?!.*:)(.*)$": {
-            "commnet": "YAML 前景の基本色",
-            "filterLanguageRegex": "yaml",
-            "regexFlags": "gm",
-            "decorations": [
-                {
-                    "color": "#ddddd3"
-                }
-            ]
-        },
-        "(?<!^[ \\t]*[/$])(.*)$": {
-            "commnet": "YAML 前景の基本色",
-            "filterLanguageRegex": "yaml",
-            "regexFlags": "gm",
-            "decorations": [
-                {
-                    "color": "#ddddd3"
-                }
-            ]
-        },
-        "(?<=.*: )(?!.*(?<![\\d\\w])true(?![\\d\\w])|.*(?<![\\d\\w])false(?![\\d\\w]))(.*)": {
-            "commnet": "YAML 前景の基本色",
-            "filterLanguageRegex": "yaml",
-            "decorations": [
-                {
-                    "color": "#ddddd3"
-                }
-            ]
-        },
-        "(?<=[/$])(.*)": {
-            "commnet": "YAML 前景の基本色",
-            "filterLanguageRegex": "yaml",
-            "decorations": [
-                {
-                    "color": "#ddddd3"
-                }
-            ]
         }
     }
 
