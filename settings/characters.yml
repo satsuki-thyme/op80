@@ -31,7 +31,7 @@ details:
         current status:
           address: 
           affiliation: 
-        approximate nature:
+        outer personality:
           overview:
             ^
             ^
@@ -92,7 +92,7 @@ details:
         current status:
           address: 
           affiliation: 
-        approximate nature:
+        outer personality:
           overview:
             ^
             ^
@@ -161,7 +161,7 @@ details:
         current status:
           address: 
           affiliation: 
-        approximate nature:
+        outer personality:
           overview:
             ^
             ^
@@ -238,7 +238,7 @@ details:
         current status:
           address: 
           affiliation: 
-        approximate nature:
+        outer personality:
 
   - group: 
     member:
@@ -258,7 +258,7 @@ details:
         current status:
           address: 
           affiliation: 
-        approximate nature:
+        outer personality:
 
   - group: 
     member:
@@ -278,5 +278,5 @@ details:
         current status:
           address: 
           affiliation: 
-        approximate nature:
+        outer personality:
 
