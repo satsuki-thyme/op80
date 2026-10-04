@@ -37,3 +37,8 @@
 ### アイデアノート
 
 - idea-notes/ide-001.md: テーマを考える
+- idea-notes/ide-002.md: 魔狩第二位の謀略
+
+### 思考ノート
+
+- thinking-notes/thi-001.md: 魔狩第二位の謀略
